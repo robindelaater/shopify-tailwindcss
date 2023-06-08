@@ -1,0 +1,5 @@
+*.cjs
+src
+vite.config.cjs
+package.json
+pnpm-lock.yaml
